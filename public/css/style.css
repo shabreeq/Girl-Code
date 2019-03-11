@@ -1,0 +1,4 @@
+@media only screen and (min-width: 601px)
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 174px;
+    line-height: 164px;
