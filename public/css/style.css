@@ -42,18 +42,20 @@ text-align:center;
   /* background-color: rgb(179, 240, 240); */
   margin-left: -15px;
   margin-right: -15px;
+ 
 }
 .headerPhrase{
   font-family: 'Dancing Script', cursive;
   font-size: 20px;
+  margin: -5px;
 }
 
 footer {
-  background-color: rgb(243, 138, 208);
+  background-color: rgb(245, 216, 235);
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
-#justpushtobottom {
-height: 82vh;
-}
+
 
  
