@@ -1,22 +1,24 @@
 .logo{
-font-size: 50px;
+font-size: 100px;
 font-weight: bolder;
-text-align:center;
-
+color: rgb(125, 230, 195);
+font-family: 'Bangers', cursive;
 }
 
 .header{
   /* background-color: rgb(179, 240, 240); */
   margin-left: 100px;
   margin-right: -150px;
-  margin-top: 150px;
- 
-}
-.headerPhrase{
+  margin-top: 100px;
   font-family: 'Dancing Script', cursive;
-  font-size: 80px;
-  margin: 40px;
-  
+  font-size: 85px; 
+  background-color: #ffffff;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.main{
+ 
 }
 
 
