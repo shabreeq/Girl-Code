@@ -1,3 +1,7 @@
+const files = [
+  
+]
+
 var instance = M.Sidenav.getInstance(elem);
 
 document.addEventListener('DOMContentLoaded', function() {
